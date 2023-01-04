@@ -2,3 +2,5 @@ are you happy?
 is this happiness?
 what makes you happy?
 not happy now?
+
+predict future
